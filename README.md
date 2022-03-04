@@ -1,7 +1,7 @@
 - 👋 我是小俞同学
 - 👀 
 - 🌱 
-- 💞️ blog : yulijian.fun
+- 💞️ blog : www.yulijian.fun
 - 📫 email : iyulijian@sina.com
 
 <!---
